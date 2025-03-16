@@ -26,7 +26,7 @@ from homeassistant.helpers.typing import ConfigType
 
 _LOGGER = logging.getLogger(__name__)
 
-DOMAIN = "aqualogic_ew11"
+DOMAIN = "oncommandoncommand"
 UPDATE_TOPIC = f"{DOMAIN}_update"
 CONF_UNIT = "unit"
 RECONNECT_INTERVAL = timedelta(seconds=10)
