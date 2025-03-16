@@ -1,0 +1,9 @@
+{
+  "domain": "oncommand",
+  "name": "OnCommand Integration",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@sapocnek"]
+}
