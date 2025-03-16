@@ -1,7 +1,9 @@
 {
-  "domain": "aqualogic_ew11",
-  "name": "AQL_EW11_HA",
-  "version": "1.2.4",
-  "documentation": "https://github.com/mas985/AquaLogic_EW11_HA",
-  "codeowners": ["@mas985"]
+  "domain": "oncommand",
+  "name": "OnCommand Integration",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@sapocnek"]
 }
